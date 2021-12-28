@@ -9,10 +9,7 @@ import java.io.InputStream;
 import java.net.*;
 import com.google.gson.*;
 
-/**
- *
- * @author pakallis
- */
+
 class Recv
 {
 private String lhs;
